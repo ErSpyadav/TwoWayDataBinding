@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TwoWayDataBing</string>
+    <string name="title_activity_one_way_binding">OneWayBindingActivity</string>
+    <string name="title_activity_listerner_bind">ListernerBindActivity</string>
+    <string name="title_activity_binding_adapter">BindingAdapterActivity</string>
+</resources>
